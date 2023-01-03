@@ -1,0 +1,54 @@
+header{
+    margin: 10px;
+    padding: 5px
+}
+#logo {
+    width: 15%;
+}
+nav a{
+    font-size: 20px;
+    margin: 10px;
+}
+#principal {
+    width: 70%;
+    display: flex;
+    margin: 10px;
+    font-size: 17px;
+}
+
+#quim {
+    width: 200px;
+    height: 150px;
+}
+
+#fis {
+    width: 200px;
+    height: 150px;
+}
+
+#mat {
+    width: 200px;
+    height: 150px;
+}
+
+#listaenlaces {
+    width: 30%;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+footer {
+    display: flex;
+}
+
+#tlf {
+    margin: 5px;
+}
+
+#mail {
+    margin: 5px;
+}

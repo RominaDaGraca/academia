@@ -1,0 +1,33 @@
+#logo{
+    width: 15%;
+}
+header{
+    margin: 10px;
+    padding: 5px;
+}
+nav a{
+    font-size: 20px;
+    margin: 10px;
+}
+table{
+    width: 75%;
+    border-collapse: collapse;
+    margin: 10px;
+}
+table, th, td{
+    border: 1px solid black;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+}
+.formulario{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+}
+#enviar{
+    width: 50%;
+}
